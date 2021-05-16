@@ -1,5 +1,5 @@
-# IBM Coursera Capstone Projects 
-This notebook is related to the Coursera Capstone Projects, it contain an analysis of Toronto city. The **K - Means Algorithm** is used for segmentation and clustering. **Geocoder** is used to define and get coordinates. **Folium** to project the results in a map visualization. The analysis gives a complete overview on the geograpic distrubution of neigborhoods in Toronto segmentated by geo coordinates. 
+# IBM Coursera Capstone Projects *Segmenting and Clustering Neighborhoods in Toronto*
+This notebook is related to the Coursera Capstone Projects contain an analysis of Toronto city. The **K - Means Algorithm** is used for segmentation and clustering. **Geocoder** is used to define and get coordinates. **Folium** to project the results in a map visualization. The analysis gives a complete overview on the geograpic distrubution of neigborhoods in Toronto segmentated by geo coordinates. 
 
 The Project has the following parts:
 
